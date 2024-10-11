@@ -1,4 +1,4 @@
-rule MAL_RANSOM_INC_Aug24 {
+rule MAL_RANSOM_INC_Oct24 {
    meta:
       author = "X__Junior"
       description = "Detects INC ransomware and it's variants like Lynx"
